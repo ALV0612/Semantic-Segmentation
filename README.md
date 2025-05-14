@@ -63,4 +63,3 @@ jupyter notebook customModel_with_kaggle_ds.ipynb
 - [ ] Add training and validation loops
 - [ ] Add custom loss functions (Dice, Focal, OHEM, etc.)
 - [ ] Finalize and save model checkpoints
-- [ ] Improve README with model architecture diagram
