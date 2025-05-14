@@ -58,7 +58,7 @@ jupyter notebook customModel_with_kaggle_ds.ipynb
 
 ---
 
-## ✅ TODO
+## TODO
 
 - [ ] Add training and validation loops
 - [ ] Add custom loss functions (Dice, Focal, OHEM, etc.)
