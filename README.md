@@ -24,7 +24,7 @@ This repository demonstrates how to build a custom semantic segmentation model u
 
 - `PyTorch`, `PyTorch Lightning`
 - `torchvision`, `albumentations`
-- `sklearn`, `PIL`, `imageio`
+- `sklearn`, `PIL`
 - `torchmetrics` for mIoU (Jaccard Index)
 
 ---
