@@ -15,11 +15,11 @@ This project demonstrates **real-time semantic segmentation** using an exported 
 ## 🗂️ Dataset
 - **Source**: [xiaose/cityscapes](https://huggingface.co/datasets/huggan/cityscapes)
 
-Classes used: Background, Lane, Person, Vehicle (4 out of original 19 classes)
+- Classes used: Background, Lane, Person, Vehicle (4 out of original 19 classes)
 
-Format: PNG images with corresponding segmentation masks
+- Format: PNG images with corresponding segmentation masks
 
-Preprocessing: Resized to 256×512, normalized with specified mean and std
+- Preprocessing: Resized to 256×512, normalized with specified mean and std
 
 This subset is designed to benchmark real-time segmentation performance while keeping the class complexity manageable.
 ---
